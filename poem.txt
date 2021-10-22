@@ -8,6 +8,7 @@ Green
 Purple
 unicorn
 Yellow
+Brown
 Red
 These are the colors of the rainbow
 abd unicorn

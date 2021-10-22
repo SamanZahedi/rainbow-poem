@@ -1,9 +1,8 @@
-horse
-The rainbow and unicorn and horse
 
-The rainbow and unicorn and rain
-main
+The rainbow and unicorn and horse and pony
 
+Pony
+Rain
 Purple
 Pink
 oraqnge
@@ -14,13 +13,7 @@ unicorn
 Yellow
 Brown
 horse
-horse
 Red
 These are the colors of the rainbow
-and unicorn and horse
+and unicorn and horse and rain and pony
 
-Rain
-Red
-These are the colors of the rainbow
-and unicorn and rain
-main
